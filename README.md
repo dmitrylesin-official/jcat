@@ -1,6 +1,6 @@
 # 🐾 JCAT Token (Joni Cat)
 
-![JCAT Token Logo](img.jpg){: width="200px"}
+![JCAT Token Logo](img/img.jpg){: width="200px"}
 
 ---
 
