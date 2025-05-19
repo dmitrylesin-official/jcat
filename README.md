@@ -19,7 +19,7 @@ He’s clawed his way through rugs, pumps, and dumps — and still lands on his 
 ## 🔗 Links
 
 - [Follow us on X (Twitter)](https://x.com/jcattoken)
-- [Official Website - KuruKuru](https://www.kuru.io/trade/0x5c530c0f0134f3e2528edad0311497d62e3856b7)
+- [Official Website - Kuru](https://www.kuru.io/trade/0x5c530c0f0134f3e2528edad0311497d62e3856b7)
 
 ---
 
