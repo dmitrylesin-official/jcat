@@ -1,6 +1,10 @@
 # 🐾 JCAT Token (Joni Cat)
 
-![JCAT Token Logo](img/img.jpg)
+---
+
+<p align="center">
+  <img src="img/img.jpg" alt="JCAT Token Logo" width="200" style="border-radius: 20px; box-shadow: 0 0 20px #8B00FF;" />
+</p>
 
 ---
 
@@ -19,15 +23,44 @@ He’s clawed his way through rugs, pumps, and dumps — and still lands on his 
 ## 🔗 Links
 
 - [Follow us on X (Twitter)](https://x.com/jcattoken)
-- [Official Website - Kuru](https://www.kuru.io/trade/0x5c530c0f0134f3e2528edad0311497d62e3856b7)
+- [Official Website - KuruKuru](https://kurukuru.ooo)
 
 ---
 
 ## 👨‍💻 Team
 
-| ![CAT](img/cat.png) | ![CEO](img/ceo.png) | ![DEV](img/dev.png) | ![Manager](img/roman.png) |
-|-----------------|-----------------|----------------|---------------------|
-| **[CEO](https://x.com/jcattoken)** <br> Leading the JCAT vision 🧠 | **[CEO](https://x.com/th3kuroro)** <br> Leading the JCAT vision 🧠 | **[CEO](https://x.com/lesin_official)** <br> Leading the JCAT vision 🧠 | **[Manager](https://x.com/RomanKoles63959)** <br> Leading the JCAT vision 🧠 |
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://x.com/jcattoken" target="_blank">
+        <img src="img/cat.png" alt="CAT" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <br><strong>CEO</strong>
+      </a>
+      <p style="color:#ffcc00; font-weight:bold;">Leading the JCAT vision 🧠</p>
+    </td>
+    <td align="center" width="180">
+      <a href="https://x.com/th3kuroro" target="_blank">
+        <img src="img/ceo.png" alt="CEO" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <br><strong>CEO</strong>
+      </a>
+      <p style="color:#ffcc00; font-weight:bold;">Leading the JCAT vision 🧠</p>
+    </td>
+    <td align="center" width="180">
+      <a href="https://x.com/lesin_official" target="_blank">
+        <img src="img/dev.png" alt="DEV" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <br><strong>CEO</strong>
+      </a>
+      <p style="color:#ffcc00; font-weight:bold;">Leading the JCAT vision 🧠</p>
+    </td>
+    <td align="center" width="180">
+      <a href="https://x.com/RomanKoles63959" target="_blank">
+        <img src="img/roman.png" alt="MANAGER" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <br><strong>MANAGER</strong>
+      </a>
+      <p style="color:#ffcc00; font-weight:bold;">Leading the JCAT vision 🧠</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,10 +71,5 @@ He’s clawed his way through rugs, pumps, and dumps — and still lands on his 
 ---
 
 <p align="center">
-  <img src="img/img.jpg" alt="JCAT Token Logo" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #8B00FF;" />
+  <em>Made with 💜 and 🐾 by the JCAT Team</em>
 </p>
-
----
-
-> _Made with 💜 and 🐾 by the JCAT Team_
-
