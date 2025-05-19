@@ -1,6 +1,6 @@
 # 🐾 JCAT Token (Joni Cat)
 
-![JCAT Token Logo](img/img.jpg)
+![JCAT Token Logo](img.jpg){: width="200px"}
 
 ---
 
@@ -38,7 +38,7 @@ He’s clawed his way through rugs, pumps, and dumps — and still lands on his 
 ---
 
 <p align="center">
-  <img src="img.jpg" alt="JCAT Token Logo" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #8B00FF;" />
+  <img src="img/img.jpg" alt="JCAT Token Logo" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #8B00FF;" />
 </p>
 
 ---
