@@ -12,11 +12,9 @@
 
 **$JCAT — The Memecoin Meowster**
 
-Joni isn’t your average cat — he’s a full-time trader, part-time chicken connoisseur, and the furry face of $JCAT. Raised on candlesticks and catnip, Joni lives for volatile markets, viral memes, and crispy chicken wings.
+JCAT is a fun memecoin built on the Monad blockchain. Combining community vibes with Monad’s fast and secure tech, $JCAT aims to bring excitement and growth to the crypto space.
 
-He’s clawed his way through rugs, pumps, and dumps — and still lands on his feet every time. Joni doesn’t chase mice, he chases 10x memecoins and isn’t afraid to ape in with his last sardine.
-
-**Join the pride, follow the paws — and let's send $JCAT to the moon!** 🌕✨
+Join us and ride the wave with JCAT! 🚀🐾
 
 ---
 
