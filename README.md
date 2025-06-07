@@ -31,8 +31,8 @@ Join us and ride the wave with JCAT! 🚀🐾
   <tr>
     <td align="center" width="180">
       <a href="https://x.com/jcattoken" target="_blank">
-        <img src="img/cat.png" alt="CAT" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
-        <br><strong>CEO</strong>
+        <img src="img/cat_x.png" alt="CAT" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <br><strong>CAT</strong>
       </a>
       <p style="color:#ffcc00; font-weight:bold;">Joni</p>
     </td>
