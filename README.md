@@ -21,7 +21,7 @@ Join us and ride the wave with JCAT! 🚀🐾
 ## 🔗 Links
 
 - [Follow us on X (Twitter)](https://x.com/jcattoken)
-- [Official Website - Kuru](https://www.kuru.io/trade/0x5c530c0f0134f3e2528edad0311497d62e3856b7)
+- [Kuru](https://www.kuru.io/trade/0x5c530c0f0134f3e2528edad0311497d62e3856b7)
 
 ---
 
