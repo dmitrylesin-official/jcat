@@ -45,7 +45,7 @@ Join us and ride the wave with JCAT! 🚀🐾
     </td>
     <td align="center" width="180">
       <a href="https://x.com/lesin_official" target="_blank">
-        <img src="img/dev.png" alt="DEV" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
+        <img src="img/dev.jpg" alt="DEV" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
         <br><strong>CEO & DEV</strong>
       </a>
       <p style="color:#ffcc00; font-weight:bold;">dmitry.eth</p>
