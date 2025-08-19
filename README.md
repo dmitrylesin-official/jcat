@@ -48,7 +48,7 @@ Join us and ride the wave with JCAT! 🚀🐾
         <img src="img/dev.jpg" alt="DEV" width="160" height="160" style="border-radius:15px; box-shadow: 0 0 10px #000;" />
         <br><strong>CEO & DEV</strong>
       </a>
-      <p style="color:#ffcc00; font-weight:bold;">dmitry.eth</p>
+      <p style="color:#ffcc00; font-weight:bold;">dmitry.mon</p>
     </td>
     <td align="center" width="180">
       <a href="https://x.com/RomanKoles63959" target="_blank">
